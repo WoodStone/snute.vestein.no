@@ -5,7 +5,10 @@ div, body {
 	margin: 0; padding: 0; border: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
+h1 {
+	margin-top: 10%;
+	text-align: center;
+}
 .vno-video {
 	position: absolute;
 	top: 50%;
